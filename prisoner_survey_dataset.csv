@@ -1,0 +1,51 @@
+InmateID,Age,Gender,Ethnicity,EducationLevel,CrimeCommitted,SentenceLength,IncarcerationStart,ProjectedRelease,PriorOffenses,GangAffiliation,SubstanceUse,MentalHealthIssues,RehabilitationPrograms,DisciplinaryActions,VisitationFrequency,JobTrainingParticipation,EducationProgramParticipation,CellBlock,SecurityLevel,RelapseRisk,ViolenceHistory
+Inmate_001,50,Female,Asian,Elementary,Other,2,10/23/2000 10:05,10/23/2002 10:05,4,No,Yes,Yes,Yes,0,4,Yes,Yes,D,Minimum,High,Yes
+Inmate_002,32,Male,Black,Elementary,Drug Offense,16,4/20/2023 15:29,4/16/2039 15:29,1,Yes,No,No,Yes,4,3,No,No,C,Maximum,High,Yes
+Inmate_003,28,Female,Other,None,Other,18,3/14/2002 2:01,3/9/2020 2:01,1,Yes,No,No,No,0,7,No,No,A,Minimum,High,Yes
+Inmate_004,62,Female,Black,High School,Drug Offense,18,9/23/2021 12:17,9/19/2039 12:17,1,Yes,Yes,Yes,No,0,2,Yes,No,D,Minimum,High,Yes
+Inmate_005,55,Female,Hispanic,College,Drug Offense,2,1/25/2003 20:43,1/24/2005 20:43,2,Yes,Yes,Yes,No,5,9,No,No,A,Medium,High,Yes
+Inmate_006,67,Female,White,High School,Other,3,6/21/2003 6:36,6/20/2006 6:36,3,No,Yes,Yes,Yes,1,3,Yes,No,D,Medium,High,Yes
+Inmate_007,70,Female,Other,None,Theft,14,9/29/2018 3:25,9/25/2032 3:25,5,No,No,Yes,No,4,6,Yes,No,A,Medium,High,Yes
+Inmate_008,34,Male,Black,None,Assault,19,5/4/2021 19:08,4/29/2040 19:08,5,No,Yes,Yes,Yes,0,4,Yes,Yes,C,Medium,High,Yes
+Inmate_009,59,Male,Asian,High School,Assault,3,9/6/2006 9:11,9/5/2009 9:11,1,No,Yes,No,No,2,9,Yes,No,B,Medium,High,Yes
+Inmate_010,63,Male,Other,None,Drug Offense,8,6/24/2010 20:24,6/22/2018 20:24,2,No,No,No,No,1,4,Yes,Yes,C,Minimum,High,Yes
+Inmate_011,66,Female,Other,Elementary,Other,20,12/1/2009 19:21,11/26/2029 19:21,2,Yes,Yes,Yes,No,1,5,Yes,Yes,A,Medium,Low,No
+Inmate_012,28,Male,Hispanic,College,Assault,19,3/20/2022 12:35,3/15/2041 12:35,0,No,No,No,Yes,0,1,No,No,C,Medium,Low,No
+Inmate_013,51,Female,Hispanic,None,Assault,17,3/18/2005 9:42,3/14/2022 9:42,5,Yes,Yes,Yes,No,1,9,Yes,Yes,D,Maximum,Low,No
+Inmate_014,56,Female,Other,Elementary,Drug Offense,12,2/23/2017 11:06,2/20/2029 11:06,0,No,Yes,Yes,No,5,8,Yes,Yes,A,Maximum,Low,No
+Inmate_015,68,Female,White,High School,Other,13,10/2/2021 13:04,9/29/2034 13:04,2,Yes,Yes,Yes,Yes,2,5,No,Yes,D,Medium,Low,No
+Inmate_016,51,Female,White,Elementary,Assault,18,2/28/2018 20:16,2/24/2036 20:16,5,Yes,No,Yes,Yes,4,2,Yes,No,B,Medium,Low,No
+Inmate_017,57,Female,Black,College,Assault,15,3/27/2000 16:51,3/24/2015 16:51,0,Yes,No,Yes,No,0,3,Yes,No,B,Maximum,Low,No
+Inmate_018,29,Male,Other,None,Theft,9,12/16/2009 11:52,12/14/2018 11:52,0,Yes,No,No,No,3,3,No,Yes,D,Medium,Low,No
+Inmate_019,33,Female,White,College,Assault,16,12/20/2012 11:02,12/16/2028 11:02,4,Yes,Yes,Yes,No,3,6,No,No,C,Maximum,Low,No
+Inmate_020,24,Male,Black,High School,Theft,14,9/3/2010 6:25,8/30/2024 6:25,4,Yes,Yes,Yes,Yes,5,1,Yes,Yes,D,Maximum,Low,No
+Inmate_021,54,Female,White,High School,Drug Offense,20,3/4/2005 5:50,2/27/2025 5:50,5,Yes,Yes,Yes,Yes,3,8,No,Yes,B,Medium,Low,No
+Inmate_022,53,Female,Asian,College,Drug Offense,11,8/3/2020 1:58,8/1/2031 1:58,1,Yes,Yes,Yes,Yes,1,2,No,No,A,Maximum,Low,No
+Inmate_023,61,Male,Other,None,Other,14,9/27/2009 23:23,9/24/2023 23:23,1,No,Yes,Yes,No,5,1,No,No,B,Medium,Low,No
+Inmate_024,45,Female,Asian,None,Robbery,6,11/2/2019 1:42,10/31/2025 1:42,3,No,Yes,Yes,Yes,1,0,Yes,No,A,Minimum,Low,No
+Inmate_025,25,Female,White,None,Theft,13,7/2/2005 17:53,6/29/2018 17:53,4,Yes,Yes,No,Yes,5,3,No,No,B,Maximum,Low,No
+Inmate_026,27,Male,Hispanic,None,Other,16,1/31/2005 12:54,1/27/2021 12:54,2,No,Yes,No,No,3,10,Yes,No,D,Maximum,Low,No
+Inmate_027,32,Male,White,High School,Assault,3,1/25/2015 23:27,1/24/2018 23:27,2,Yes,Yes,No,No,4,1,Yes,Yes,D,Maximum,Low,No
+Inmate_028,31,Female,Hispanic,High School,Robbery,12,11/5/2007 22:21,11/2/2019 22:21,3,No,Yes,No,No,1,10,Yes,No,D,Minimum,Low,No
+Inmate_029,38,Female,Black,High School,Robbery,15,7/4/2006 11:59,6/30/2021 11:59,0,No,Yes,Yes,No,2,5,Yes,Yes,B,Maximum,Low,No
+Inmate_030,39,Female,Asian,High School,Other,20,5/3/2019 8:20,4/28/2039 8:20,4,No,Yes,Yes,No,5,2,No,No,B,Medium,Low,No
+Inmate_031,53,Female,Hispanic,Elementary,Drug Offense,9,12/24/2001 5:40,12/22/2010 5:40,2,Yes,Yes,Yes,Yes,1,10,No,No,B,Minimum,Low,No
+Inmate_032,65,Female,Hispanic,College,Theft,5,9/14/2010 11:26,9/13/2015 11:26,5,No,Yes,No,Yes,1,8,Yes,No,B,Medium,Low,No
+Inmate_033,44,Female,Other,High School,Theft,18,12/23/2013 2:43,12/19/2031 2:43,1,Yes,No,Yes,Yes,1,2,Yes,No,C,Maximum,Low,No
+Inmate_034,44,Male,Black,Elementary,Other,16,6/12/2007 15:08,6/8/2023 15:08,0,Yes,No,No,Yes,5,10,No,Yes,D,Maximum,Low,No
+Inmate_035,22,Female,Asian,High School,Theft,5,7/1/2000 13:30,6/30/2005 13:30,3,No,Yes,Yes,Yes,0,8,No,Yes,A,Minimum,Low,No
+Inmate_036,63,Female,Hispanic,None,Drug Offense,10,3/9/2001 20:45,3/7/2011 20:45,5,Yes,No,No,No,5,10,Yes,Yes,C,Maximum,Low,No
+Inmate_037,60,Male,Hispanic,High School,Robbery,10,1/21/2006 3:18,1/19/2016 3:18,0,No,No,No,Yes,2,8,Yes,No,C,Medium,Low,No
+Inmate_038,49,Male,Other,None,Robbery,10,11/5/2000 22:35,11/3/2010 22:35,3,No,No,Yes,No,2,1,No,No,C,Medium,Low,No
+Inmate_039,46,Male,Other,High School,Other,18,2/4/2021 10:33,1/31/2039 10:33,2,No,No,Yes,No,3,3,No,Yes,A,Minimum,Low,No
+Inmate_040,51,Male,Asian,College,Robbery,14,5/16/2000 5:17,5/13/2014 5:17,5,Yes,Yes,No,No,5,3,No,Yes,D,Maximum,Low,No
+Inmate_041,45,Male,Other,College,Drug Offense,13,4/2/2023 22:01,3/29/2036 22:01,0,No,No,Yes,No,0,7,Yes,No,D,Minimum,Low,No
+Inmate_042,68,Male,Hispanic,None,Other,17,11/11/2009 16:14,11/7/2026 16:14,2,Yes,No,No,Yes,5,4,No,Yes,C,Medium,Low,No
+Inmate_043,58,Female,Other,Elementary,Theft,1,10/9/2019 15:07,10/8/2020 15:07,4,Yes,Yes,No,Yes,1,10,No,No,C,Maximum,Low,No
+Inmate_044,66,Female,Hispanic,None,Other,4,6/22/2011 20:27,6/21/2015 20:27,2,No,No,No,Yes,0,5,No,Yes,A,Medium,Low,No
+Inmate_045,32,Female,Asian,College,Other,6,9/26/2004 11:24,9/25/2010 11:24,5,Yes,No,No,Yes,4,2,Yes,No,A,Minimum,Low,No
+Inmate_046,44,Male,Hispanic,High School,Robbery,20,5/13/2003 13:02,5/8/2023 13:02,5,Yes,Yes,Yes,Yes,1,6,No,Yes,C,Maximum,Low,No
+Inmate_047,26,Female,Other,High School,Robbery,15,11/21/2023 10:28,11/17/2038 10:28,5,Yes,No,Yes,No,5,10,Yes,Yes,A,Medium,Low,No
+Inmate_048,32,Female,Asian,None,Other,20,6/14/2018 3:55,6/9/2038 3:55,0,Yes,No,No,No,0,7,Yes,Yes,C,Minimum,Low,No
+Inmate_049,25,Female,Hispanic,Elementary,Drug Offense,17,8/12/2004 4:05,8/8/2021 4:05,4,No,Yes,No,Yes,3,5,No,No,A,Minimum,Low,No
+Inmate_050,28,Male,Black,College,Theft,19,1/24/2014 16:33,1/19/2033 16:33,5,Yes,No,Yes,No,3,10,No,No,C,Medium,Low,No
